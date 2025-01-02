@@ -1,6 +1,6 @@
-train: /content/blood-cell-detection-4/train/images
-val: /content/blood-cell-detection-4/valid/images
-test: /content/blood-cell-detection-4/test/images
+train: /content/blood-cell-dataset-roboflow/train/images
+val: /content/blood-cell-dataset-roboflow/valid/images
+test: /content/blood-cell-dataset-roboflow/test/images
 
 nc: 3
 names: ['RBC', 'WBC', 'platelets']
